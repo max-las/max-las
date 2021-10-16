@@ -3,7 +3,7 @@
 
 - 🔭 Currently, I’m mostly working on [my portfolio](https://github.com/max-las/portfolio-v2)
 
-- 🌱 Currently learning **Go, Markdown, CSS, Flutter, Sustainable web design**
+- 🌱 Currently learning **Go, CSS, Flutter, Sustainable web design**
 
 - 📫 How to reach me **lasserre.maxime@yahoo.fr**
 
