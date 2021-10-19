@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxime Lasserre</h1>
 <h3 align="center">Wannabe full-stack web developer from France</h3>
 
-- 🔭 Currently, I’m mostly working on [my portfolio](https://github.com/max-las/portfolio-v2)
-
 - 🌱 Currently learning **Go, CSS, Flutter, Sustainable web design**
 
 - 📫 How to reach me **lasserre.maxime@yahoo.fr**
