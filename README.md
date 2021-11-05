@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxime Lasserre</h1>
 <h3 align="center">Wannabe full-stack web developer from France</h3>
 
-- 🌱 Currently learning **Go, Vue.js, Flutter, Sustainable web design**
+- 🌱 Currently learning **Go, Vue.js and sustainable web design**
 
 - 📫 How to reach me **lasserre.maxime@yahoo.fr**
 
