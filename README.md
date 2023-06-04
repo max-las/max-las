@@ -5,7 +5,7 @@
 
 - 🔭 I like to keep an eye on [Elixir](https://elixir-lang.org/)/[Phoenix](https://www.phoenixframework.org/), [Hugo](https://gohugo.io/), [Svelte](https://svelte.dev/) and [Rust](https://www.rust-lang.org/fr)
 
-- ⚡ All of my projects are available at [maximelasserre.com](https://www.maximelasserre.com)
+- ⚡ Some of my projects are available at [maximelasserre.com](https://www.maximelasserre.com)
 
 - 📫 How to reach me **lasserre.maxime@yahoo.fr**
 
