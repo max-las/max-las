@@ -3,8 +3,6 @@
 
 - 👨‍💻 I’m currently working as a [Ruby on Rails](https://rubyonrails.org/) developer
 
-- 🔭 I like to keep an eye on [Elixir](https://elixir-lang.org/)/[Phoenix](https://www.phoenixframework.org/), [Hugo](https://gohugo.io/), [Svelte](https://svelte.dev/) and [Rust](https://www.rust-lang.org/fr)
-
 - ⚡ Some of my projects are available at [maximelasserre.com](https://www.maximelasserre.com)
 
 - 📫 How to reach me **lasserre.maxime@yahoo.fr**
