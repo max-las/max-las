@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working as a [Ruby on Rails](https://rubyonrails.org/) developer
 
-- ⚡ Some of my projects are available at [maximelasserre.com](https://www.maximelasserre.com)
+- ⚡ My older projects are available at [maximelasserre.com](https://www.maximelasserre.com)
 
 - 📫 How to reach me **lasserre.maxime@yahoo.fr**
 
